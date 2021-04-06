@@ -1,9 +1,9 @@
 # 100 Days Of Code - Log
 
-### Day 1: October 27, 2018
+### Day 1: April 7, 2021
 
-**Today's Progress**: Started Javascript30 challenge. Understood the concepts in first exercise and tweaked the code according to my crazyness.
+**Today's Progress**: JS nuggests playlist videos - [Youtube](https://www.youtube.com/watch?v=80KX6aD9R7M&list=PLnHJACx3NwAfRUcuKaYhZ6T5NRIpzgNGJ)
 
-**Thoughts:** Understanding the use of data attribute in HTML was quite new.
+**Thoughts:** Map and reduce methods
 
 **Link to work:** . To be updated

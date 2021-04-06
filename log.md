@@ -7,3 +7,11 @@
 **Thoughts:** Map and reduce methods
 
 **Link to work:** . To be updated
+
+### Day 2: April 8, 2021
+
+### Day 3: April 9, 2021
+
+### Day 4: April 10, 2021
+
+### Day 5: April 11, 2021
